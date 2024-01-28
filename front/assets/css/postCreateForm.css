@@ -63,6 +63,7 @@ form {
 .media {
   display: flex;
   gap: 16px;
+  /* display: none; */
 }
 
 .file-form-group {

@@ -1,4 +1,5 @@
 // Base URL
+// export const baseUrl = "https://clumsy-calf-cap.cyclic.app" || "http://localhost:3000";
 export const baseUrl = "http://localhost:3000";
 
 // All posts URL 

@@ -28,6 +28,14 @@ GameZone est votre destination ultime pour tout ce qui concerne les jeux vidéo.
 
 12. **Partage sur les Réseaux Sociaux :** Partagez vos découvertes et réalisations avec vos amis en un clic grâce à nos boutons de partage intégrés.
 
+## Aperçu en Ligne
+
+Vous pouvez explorer une démo en ligne de GameZone en suivant ce lien : [GameZone](https://sunyo-gamezone-beta.netlify.app/)
+
+## Contributeurs
+
+Sunyo Danarson
+
 ---
 
 GameZone, c'est bien plus qu'un simple site sur les jeux vidéo ; c'est une communauté dynamique où les joueurs se rencontrent, partagent leur passion et explorent l'étendue infinie du monde du gaming. Rejoignez-nous dès maintenant et plongez dans l'aventure vidéoludique ultime !
